@@ -8,6 +8,10 @@ A handy list of useful resources
 * https://course.fast.ai
 * https://developers.google.com/machine-learning/crash-course/
 
+### MOOCs I haven't done but want to look at
+* http://web.stanford.edu/class/cs224n/
+* https://www.coursera.org/learn/nlp-sequence-models
+
 ## Publishing
 
 * https://reddit.com/r/machinelearning
