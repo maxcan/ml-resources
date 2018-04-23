@@ -5,13 +5,13 @@ A handy list of useful resources
 
 ## MOOCs
 
-* course.fast.ai
+* https://course.fast.ai
 * https://developers.google.com/machine-learning/crash-course/
 
 ## Publishing
 
 * https://reddit.com/r/machinelearning
-* distill.pub
+* https://distill.pub
 
 # Python
 
