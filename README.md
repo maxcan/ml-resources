@@ -11,6 +11,7 @@ A handy list of useful resources
 ### MOOCs I haven't done but want to look at
 * http://web.stanford.edu/class/cs224n/
 * https://www.coursera.org/learn/nlp-sequence-models
+* https://aischool.microsoft.com/
 
 ## Publishing
 
