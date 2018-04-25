@@ -24,3 +24,5 @@ A handy list of useful resources
 
 * http://tiao.io/posts/demos/ipython-notebook-demo/
 * https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
+# Unsorted..
