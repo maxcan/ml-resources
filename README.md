@@ -26,3 +26,4 @@ A handy list of useful resources
 * https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
 # Unsorted..
+https://keras.io/
