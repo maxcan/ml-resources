@@ -26,4 +26,6 @@ A handy list of useful resources
 * https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
 # Unsorted..
-https://keras.io/https://en.wikipedia.org/wiki/Hierarchical_temporal_memoryhttps://sedimental.org/glom_restructured_data.html
+https://keras.io/
+https://en.wikipedia.org/wiki/Hierarchical_temporal_memory
+https://sedimental.org/glom_restructured_data.html
