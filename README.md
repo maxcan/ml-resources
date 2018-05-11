@@ -33,3 +33,5 @@ https://sedimental.org/glom_restructured_data.html
 https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/
 
 http://course.fast.ai/part2.html
+
+https://pudding.cool/
