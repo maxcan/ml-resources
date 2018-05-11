@@ -29,3 +29,5 @@ A handy list of useful resources
 https://keras.io/
 https://en.wikipedia.org/wiki/Hierarchical_temporal_memory
 https://sedimental.org/glom_restructured_data.html
+
+https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/
