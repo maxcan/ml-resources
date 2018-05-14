@@ -35,4 +35,4 @@ https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-pyt
 http://course.fast.ai/part2.html
 
 https://pudding.cool/
-e
+ehttps://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/
