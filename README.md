@@ -37,3 +37,5 @@ http://course.fast.ai/part2.html
 https://pudding.cool/
 ehttps://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/
 https://sedimental.org/glom_restructured_data.html
+
+https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html
