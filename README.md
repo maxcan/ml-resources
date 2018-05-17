@@ -39,3 +39,5 @@ ehttps://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-py
 https://sedimental.org/glom_restructured_data.html
 
 https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html
+
+http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
