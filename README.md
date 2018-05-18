@@ -41,3 +41,5 @@ https://sedimental.org/glom_restructured_data.html
 https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html
 
 http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
+
+http://osim-rl.stanford.edu/docs/home/
