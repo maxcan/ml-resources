@@ -45,3 +45,5 @@ http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
 http://osim-rl.stanford.edu/docs/home/
 
 https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/
+
+https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939
