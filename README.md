@@ -47,3 +47,5 @@ http://osim-rl.stanford.edu/docs/home/
 https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/
 
 https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939
+
+https://www.microsoft.com/developerblog/2017/12/04/predicting-stock-performance-deep-learning/
