@@ -51,3 +51,5 @@ https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8
 https://www.microsoft.com/developerblog/2017/12/04/predicting-stock-performance-deep-learning/
 
 https://blog.google/topics/ai/ai-principles/
+
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
