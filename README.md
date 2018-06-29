@@ -53,3 +53,5 @@ https://www.microsoft.com/developerblog/2017/12/04/predicting-stock-performance-
 https://blog.google/topics/ai/ai-principles/
 
 https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+
+https://algorithms-tour.stitchfix.com/
