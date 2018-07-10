@@ -57,3 +57,5 @@ https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and
 https://algorithms-tour.stitchfix.com/
 
 retrhttps://towardsdatascience.com/semantic-code-search-3cd6d244a39c
+
+https://einstein.ai/research/the-natural-language-decathlon
