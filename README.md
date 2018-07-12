@@ -59,3 +59,5 @@ https://algorithms-tour.stitchfix.com/
 retrhttps://towardsdatascience.com/semantic-code-search-3cd6d244a39c
 
 https://einstein.ai/research/the-natural-language-decathlon
+
+https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f
